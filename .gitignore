@@ -1,0 +1,14 @@
+# Built files
+*.apk
+*.ap_
+.class
+
+# VM files
+*.dex
+
+# generated files
+bin/
+gen/
+
+# local sdk config
+local.properties
